@@ -26,10 +26,10 @@ AirCloud is a beautifully designed weather application built with Flutter. It pr
 Here are some screenshots of the AirCloud Weather App:
 
 ### Home Screen
-<img src="assets/wallpaperscreenshots/01.jpg" alt="Home Screen" width="500" height="200">
+<img src="assets/wallpaperscreenshots/01.jpg" alt="Home Screen" height="500" width="240">
 
 ### Weather Details
-<img src="assets/wallpaperscreenshots/02.jpg" alt="Weather Details" width="500" height="200">
+<img src="assets/wallpaperscreenshots/02.jpg" alt="Weather Details" height="500" width="240">
 
 ### Settings
-<img src="assets/wallpaperscreenshots/03.jpg" alt="Settings" width="500" height="200">
+<img src="assets/wallpaperscreenshots/03.jpg" alt="Settings" height="500" width="240">
